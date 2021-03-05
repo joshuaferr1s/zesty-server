@@ -1,0 +1,14 @@
+{
+  "name": "zesty-server",
+  "version": "0.1.0",
+  "description": "Server for the Zesty sound app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Ferris",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^3.1.2"
+  }
+}
